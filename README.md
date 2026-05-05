@@ -27,4 +27,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3783-mirror-distance-of-an-integer](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0061-rotate-list](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0061-rotate-list/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0061-rotate-list](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0061-rotate-list/) | Medium |
 <!---LeetCode Topics End-->
