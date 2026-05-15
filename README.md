@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0001-two-sum/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0001-two-sum/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
