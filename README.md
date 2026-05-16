@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0371-sum-of-two-integers](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0371-sum-of-two-integers/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -76,4 +77,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0053-maximum-subarray/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0371-sum-of-two-integers](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0371-sum-of-two-integers/) | Medium |
 <!---LeetCode Topics End-->
