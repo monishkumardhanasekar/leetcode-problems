@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0001-two-sum/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0053-maximum-subarray](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 ## Hash Table
