@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0001-two-sum/) | Easy |
 | [0053-maximum-subarray](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0152-maximum-product-subarray/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
