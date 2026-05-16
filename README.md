@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -81,4 +82,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0371-sum-of-two-integers](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0371-sum-of-two-integers/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
