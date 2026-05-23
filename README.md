@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1306-jump-game-iii](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/1306-jump-game-iii/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Depth-First Search
