@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3120-count-the-number-of-special-characters-i](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3120-count-the-number-of-special-characters-i](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
