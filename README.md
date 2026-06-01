@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0061-rotate-list](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0061-rotate-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0206-reverse-linked-list/) | Easy |
 ## Two Pointers
@@ -134,5 +135,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
