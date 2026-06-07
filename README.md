@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2126-destroying-asteroids](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -167,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [2196-create-binary-tree-from-descriptions](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -174,4 +177,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [2196-create-binary-tree-from-descriptions](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 <!---LeetCode Topics End-->
