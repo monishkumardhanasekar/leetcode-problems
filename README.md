@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2574-left-and-right-sum-differences](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0009-palindrome-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0371-sum-of-two-integers/) | Medium |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Linked List
