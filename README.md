@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -186,4 +188,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/3838-weighted-word-mapping/) | Easy |
 <!---LeetCode Topics End-->
