@@ -67,11 +67,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0061-rotate-list](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0061-rotate-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0206-reverse-linked-list/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0015-3sum/) | Medium |
 | [0061-rotate-list](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0061-rotate-list/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Binary Search
