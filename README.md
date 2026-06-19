@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1306-jump-game-iii](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/1306-jump-game-iii/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2126-destroying-asteroids](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0238-product-of-array-except-self/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
