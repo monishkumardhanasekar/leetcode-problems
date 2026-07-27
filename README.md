@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0238-product-of-array-except-self](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1306-jump-game-iii](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/1306-jump-game-iii/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1559-detect-cycles-in-2d-grid](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0009-palindrome-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -110,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0015-3sum/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2126-destroying-asteroids](https://github.com/monishkumardhanasekar/leetcode-problems/tree/main/2126-destroying-asteroids/) | Medium |
